@@ -26,7 +26,7 @@ export const BespokeModal: React.FC<BespokeModalProps> = ({ isOpen, onClose }) =
       `🎨 *Rəng Qamması:* ${palette}\n` +
       `📝 *Xüsusi İstəklər:* ${notes || 'Yoxdur'}\n\n` +
       `Baş floristlə fərdi kompozisiya dizaynını müzakirə etmək istəyirəm.`;
-    window.open(`https://wa.me/994508002020?text=${encodeURIComponent(msg)}`, '_blank');
+    window.open(`https://wa.me/994554919940?text=${encodeURIComponent(msg)}`, '_blank');
     onClose();
   };
 
@@ -85,7 +85,7 @@ export const BespokeModal: React.FC<BespokeModalProps> = ({ isOpen, onClose }) =
               <input
                 type="tel"
                 required
-                placeholder="+994 (50) 000 00 00"
+                placeholder="+994 (55) 000 00 00"
                 value={clientPhone}
                 onChange={(e) => setClientPhone(e.target.value)}
                 className="w-full px-3 py-2.5 bg-[#1c1b1b] border border-[#353534] text-[#e5e2e1] text-sm focus:border-[#e4c18d] outline-none"

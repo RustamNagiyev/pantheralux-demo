@@ -70,7 +70,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({
           {/* Direct Contact Buttons */}
           <div className="space-y-3">
             <a
-              href="https://wa.me/994508002020?text=Salam,%20Panthera%20Atelier-lə%20əlaqə%20saxlayıram."
+              href="https://wa.me/994554919940?text=Salam,%20Panthera%20Atelier-lə%20əlaqə%20saxlayıram."
               target="_blank"
               rel="noreferrer"
               className="w-full py-3.5 px-4 bg-[#1c1b1b] border border-[#e4c18d]/40 rounded-lg flex items-center justify-between hover:bg-[#2a2a2a] transition-colors group"
@@ -81,7 +81,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({
                 </div>
                 <div className="text-left">
                   <div className="text-sm font-semibold text-[#e5e2e1]">WhatsApp Konsyerj</div>
-                  <div className="text-xs text-[#d2c3c5]">+994 (50) 800 20 20</div>
+                  <div className="text-xs text-[#d2c3c5]">+994 (55) 491 99 40</div>
                 </div>
               </div>
               <span className="material-symbols-outlined text-[#e4c18d] group-hover:translate-x-1 transition-transform">
@@ -90,7 +90,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({
             </a>
 
             <a
-              href="tel:+994124902020"
+              href="tel:+994554919940"
               className="w-full py-3.5 px-4 bg-[#1c1b1b] border border-[#353534] rounded-lg flex items-center justify-between hover:bg-[#2a2a2a] transition-colors group"
             >
               <div className="flex items-center gap-3">
@@ -98,8 +98,8 @@ export const ContactModal: React.FC<ContactModalProps> = ({
                   <span className="material-symbols-outlined text-[18px]">call</span>
                 </div>
                 <div className="text-left">
-                  <div className="text-sm font-semibold text-[#e5e2e1]">Şəhər Telefonu</div>
-                  <div className="text-xs text-[#d2c3c5]">+994 (12) 490 20 20</div>
+                  <div className="text-sm font-semibold text-[#e5e2e1]">Mobil Telefon</div>
+                  <div className="text-xs text-[#d2c3c5]">+994 (55) 491 99 40</div>
                 </div>
               </div>
               <span className="material-symbols-outlined text-[#d2c3c5] group-hover:translate-x-1 transition-transform">

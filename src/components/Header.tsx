@@ -86,12 +86,12 @@ export const Header: React.FC<HeaderProps> = ({
           {/* Direct Phone / WhatsApp link */}
           <a
             className="hidden xl:flex items-center gap-2 text-[#e4c18d] hover:text-[#ffdead] transition-colors duration-200"
-            href="https://wa.me/994508002020?text=Salam,%20Panthera%20Atelier-dən%20buket%20sifarişi%20ilə%20bağlı%20əlaqə%20saxlayıram."
+            href="https://wa.me/994554919940?text=Salam,%20Panthera%20Atelier-dən%20buket%20sifarişi%20ilə%20bağlı%20əlaqə%20saxlayıram."
             target="_blank"
             rel="noreferrer"
           >
             <span className="material-symbols-outlined text-[18px]">phone_in_talk</span>
-            <span className="font-sans text-[10px] tracking-wider font-medium">+994 (50) 800 20 20</span>
+            <span className="font-sans text-[10px] tracking-wider font-medium">+994 (55) 491 99 40</span>
           </a>
 
           {/* Cart Icon */}
@@ -197,13 +197,13 @@ export const Header: React.FC<HeaderProps> = ({
               Sifariş et
             </button>
             <a
-              href="https://wa.me/994508002020"
+              href="https://wa.me/994554919940"
               target="_blank"
               rel="noreferrer"
               className="text-center font-sans text-[11px] text-[#e4c18d] uppercase tracking-wider py-2 flex items-center justify-center gap-2"
             >
               <span className="material-symbols-outlined text-[16px]">call</span>
-              +994 (50) 800 20 20
+              +994 (55) 491 99 40
             </a>
           </div>
         </div>

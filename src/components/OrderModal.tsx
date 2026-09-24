@@ -53,7 +53,7 @@ export const OrderModal: React.FC<OrderModalProps> = ({
 
   const handleSendWhatsApp = () => {
     const text = encodeURIComponent(constructWhatsAppMessage());
-    window.open(`https://wa.me/994508002020?text=${text}`, '_blank');
+    window.open(`https://wa.me/994554919940?text=${text}`, '_blank');
     onClose();
   };
 
@@ -178,7 +178,7 @@ export const OrderModal: React.FC<OrderModalProps> = ({
                   <input
                     type="tel"
                     required
-                    placeholder="+994 (50) 000 00 00"
+                    placeholder="+994 (55) 000 00 00"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
                     className="w-full px-3 py-2.5 bg-[#1c1b1b] border border-[#353534] text-[#e5e2e1] text-sm focus:border-[#e4c18d] outline-none"

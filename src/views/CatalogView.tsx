@@ -141,7 +141,7 @@ export const CatalogView: React.FC<CatalogViewProps> = ({
                     <div className="absolute inset-x-4 bottom-4 opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 flex flex-col gap-2">
                       <a
                         className="w-full py-3 px-4 bg-[#ffeaed] text-[#42292f] font-sans text-[11px] font-semibold uppercase tracking-wider flex items-center justify-center gap-2 rounded shadow-lg hover:bg-[#f0c9d0] transition-colors"
-                        href={`https://wa.me/994508002020?text=${encodeURIComponent(
+                        href={`https://wa.me/994554919940?text=${encodeURIComponent(
                           `Salam, Panthera Atelye. ${product.name} (${product.refCode}, ${product.price} AZN) haqqında məlumat almaq və sifariş etmək istəyirəm.`
                         )}`}
                         target="_blank"

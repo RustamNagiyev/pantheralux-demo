@@ -36,7 +36,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
       `💰 *Cəmi Məbləğ:* ${total} ₼\n` +
       `📍 *Çatdırılma:* Bakı daxilində lüks klimat-nəzarətli avtomobillə (Ödənişsiz)\n\n` +
       `Sifarişimi qeydiyyata almağınızı xahiş edirəm.`;
-    window.open(`https://wa.me/994508002020?text=${encodeURIComponent(msg)}`, '_blank');
+    window.open(`https://wa.me/994554919940?text=${encodeURIComponent(msg)}`, '_blank');
     onClose();
   };
 

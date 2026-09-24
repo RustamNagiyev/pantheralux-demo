@@ -17,7 +17,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
   if (!product) return null;
 
   const whatsappMessage = `Salam, Panthera Atelye. ${product.name} (${product.refCode}, ${product.price} AZN) haqqında məlumat almaq və sifariş etmək istəyirəm.`;
-  const whatsappUrl = `https://wa.me/994508002020?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/994554919940?text=${encodeURIComponent(whatsappMessage)}`;
 
   return (
     <div

@@ -81,20 +81,20 @@ export const Footer: React.FC<FooterProps> = ({
               <span className="font-sans text-[13px]">Nizami küç. 142, Səbail rayonu, Bakı</span>
             </div>
             <a
-              href="tel:+994124902020"
+              href="tel:+994554919940"
               className="flex items-center gap-2 text-[#d2c3c5] hover:text-[#ffeaed] transition-colors"
             >
               <span className="material-symbols-outlined text-[16px] text-[#e4c18d]">call</span>
-              <span className="font-sans text-[13px]">Tel: +994 (12) 490 20 20</span>
+              <span className="font-sans text-[13px]">Tel: +994 (55) 491 99 40</span>
             </a>
             <a
-              href="https://wa.me/994508002020"
+              href="https://wa.me/994554919940"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 text-[#d2c3c5] hover:text-[#ffeaed] transition-colors"
             >
               <span className="material-symbols-outlined text-[16px] text-[#e4c18d]">chat</span>
-              <span className="font-sans text-[13px]">WhatsApp: +994 (50) 800 20 20</span>
+              <span className="font-sans text-[13px]">WhatsApp: +994 (55) 491 99 40</span>
             </a>
             <a
               href="https://instagram.com"
